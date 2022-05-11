@@ -1,0 +1,10 @@
+
+function reverse(str) {
+  let i = str.length,
+      x = '';
+  while (i > 0) {
+    x = x + str.charAt(i-1);
+    i--;
+  }
+  return x;
+  }

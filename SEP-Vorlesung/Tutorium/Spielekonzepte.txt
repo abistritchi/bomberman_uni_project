@@ -1,0 +1,107 @@
+-------------Ideen-Spielkonzepte------------
+
+
+*Hilfreiche Links
+
+- https://de.wikipedia.org/wiki/Spielmodus_(Computerspiel)
+ 
+------------------------------------------------------------------------
+*Besipiele für Coop-Modus (Zwei Spieler)
+	
+	*Coop-Modus 
+
+		-snipperclips
+		->https://www.youtube.com/watch?v=Inpvizufc14
+
+		-fireboy icegirl
+		->https://www.youtube.com/watch?v=Bp24rTy3m2Q
+	
+		-ibb & obb 
+		->https://www.youtube.com/watch?v=2iif636QAcc
+--------------------------------------------------------------------------
+*Multiplayer (> 2Spieler)
+
+	*Deathmatch 
+	
+	 BOMBERMAN
+	 -> https://www.youtube.com/watch?v=lJB277D_lpo
+	 vier spieler auf einem schachähnlichen feld; spieler spielen gegeneinandern; jeder spieler hat bomben die er 
+	 benutz um bausteine aus dem feld zu schaffen und upgrades von den zerstörten bausteinen zu bekommen (zb geschwindigkeitsboost,
+	 größeres bombenrange) man versucht die anderen spieler durch die bomben zu killn; derjenige der am alleine auf dem feld steht haz
+	 gewonnen
+	   
+	   +++Vorteile+++++
+	  
+	   + multiplayer vier spieler
+	   + selbes feld für alle spieler-> 
+	   + spielfeld bewegt sich nicht _> einfacher zu programmieren
+	   + nur vier bewegungsrichtungen für spieler-> einfacher zu implementieren (keine 360 grade bewegung)
+	   + simple spiellogik durch festgelegte quadrate 
+	   + kreative upgrades -> zb man 
+			
+
+	klassisches AUTORENNSPIEL
+	man muss eine bestimmte anzahl an runden fahren. wer nach beenden aller runde als erstes beim ziel ankommt gewinnt. 
+	da man mit spielern kommunizieren muss einfach erweitern mit upgrades die man einsammeln kann (man wird schneller, raketen
+	modus, gegenstände die den gegner verlangsamen)
+	-> zB. mario kart
+
+ 	-fun race
+  	- zwei Teams bekämpfen sich gegenseitig oder oder bekämpfen monster-> das Team mit den meisten kills gewinnt..
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+  	
+ 	***Schlange für mehrere Personen 
+    	-4 Schlangen von verschiedenen Farben 
+	    -4 Äpfeln von verschiedenen Farben 
+	    -Wenn eine Schlange den Apfel von derselben Farbe ist, dann bekommt der Spieler 3 Punkten, sonst 1 Punkt. 
+	    -Wenn der Spieler verliert, die Schlange verschwindet. Die Daten sind gespeichert und werden am Ende des Spiels gezeigt 
+	    -Gewinnt der letzte Spieler
+	    
+	    
+	 ***Traffic Racer
+	    https://www.youtube.com/watch?v=yDMsCNyudpo
+	    4 Spieler (oder mehrere) sind unabhängig voneinander. Spieler können nicht mit ineinander stoßen.
+	    „Zeit“ oder „Punkten“ Mod
+	    
+	    
+	 
+	 ***Offline Paradise
+	        https://js13kgames.com/games/offline-paradise/index.html
+	        Typischer Renner 
+	        
+	        
+	 *** Agar.io
+	        https://www.youtube.com/watch?v=Tts9NHL8D8I#\
+        	https://agar.io/#ffa
+
+
+	    
+-speedrunners 
+      https://www.youtube.com/watch?v=E_0CrxTYWWo
+      -man kann mit anderen leuten interagieren (mit grappling hook zurückziehen, bomben,...)
+      -interaktive umwelt (bomben, power ups, bildschirm verkleinert sich mit der zeit)
+      
+      
+-ultimate chicken horse 
+     https://www.youtube.com/watch?v=sZvF9y9D8tc
+     -man baut mit anderen spielern die umwelt bzw. den parcours und versucht, zusammen durchzukommen (oder die anderen auszuschalten ;))
+     
+     
+     
+-move or die 
+     - verschiedene spielmodi, aber man darf nicht zu lange stehen bleiben
+
+
+
+-------------------------------------------------------------------------
+*Random-Ideen
+
+-wettrennen mit hindernissen (aber nicht als plattformer)
+
+-zwei raketen fliegen im all umher und beschießen entgenefliegende Objete und gegnerische raketen. man bekommt ab und zu die möglichkeite waffen upgrades oder raketenteile upgrades einzufangen. nach jedem level kommt ein bossfight
